@@ -69,6 +69,7 @@ function averageOfStrings(list){
   // calculate an average value of numbers represented as strings and return it.
 }
 
+// Rewrite function as arrow function
 function footballScores(results){
   // results is an array of football scores represented as objects
 
