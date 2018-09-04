@@ -7,7 +7,7 @@
 3. Run `npm install` from project folder on your machine after cloning to download external dependencies from `npm`. You only need to run this once after cloning.
 3. The exercise questions are in `src/operators.js`.
 4. The exercises have automated tests in `test/operators.test.js`. Feel free to take a look in the test file for possible inputs and expected outputs.
-5. Work in pairs to implement the functions in `src/fundamentals.js`. Take turns in implementing functions.
+5. Work in pairs to implement the functions in `src/operators.js`. Take turns in implementing functions.
 6. Run `npm test` using command line from project folder to check if your answer is correct.
 7. Commit your code after each exercise and push your changes to Github. Create a Pull Request after first push.
 
